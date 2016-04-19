@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-        "serverURL": "https://daysofwar.herokuapp.com/parse", // If your Parse Server's endpoint is not at /parse, you need to replace /parse with the correct endpoint
+        "serverURL": "https://daysofwar.herokuapp.com/", // If your Parse Server's endpoint is not at /parse, you need to replace /parse with the correct endpoint
         "appId": "myAppId",
         "masterKey": "myMasterKey",
         "appName": "myAppName"
