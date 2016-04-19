@@ -1,5 +1,16 @@
 {
   "apps": [
-
+    {
+        "serverURL": "https://daysofwar.herokuapp.com//parse", // If your Parse Server's endpoint is not at /parse, you need to replace /parse with the correct endpoint
+        "appId": "myAppId",
+        "masterKey": "myMasterKey",
+        "appName": "myAppName"
+    }
+  ],
+  "users": [
+    {
+      "user":"username", // Used to log in to your Parse Dashboard
+      "pass":"password"
+    }
   ]
 }
